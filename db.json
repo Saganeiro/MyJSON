@@ -1,15 +1,15 @@
 {
-  "posts": [
-    { "id": 0, "title": "Post 1" },
-    { "id": 1, "title": "Post 2" },
-    { "id": 2, "title": "Post 3" }
+  "auta": [
+    { "id": 0, "marka": "VW" },
+    { "id": 1, "marka": "AUDI" },
+    { "id": 2, "marka": "MAZWA" }
   ],
   "comments": [
-    { "id": 0, "body": "some comment", "postId": 1 },
-    { "id": 1, "body": "some comment", "postId": 1 },
-	{ "id": 1, "body": "some comment", "postId": 1 }
+    { "id": 0, "body": "some comment", "postId": 123 },
+    { "id": 1, "body": "some comment", "postId": 456 },
+    { "id": 2, "body": "some comment", "postId": 789 }
   ],
-  "profile": [
+  "Imiona": [
   { "id": 0, "name": "Tomek" },
   { "id": 1, "name": "Romek" },
   { "id": 2, "name": "Atomek" }
