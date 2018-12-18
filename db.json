@@ -2,9 +2,9 @@
   "auta": [
     { "id": 0, "marka": "VW" },
     { "id": 1, "marka": "AUDI" },
-    { "id": 2, "marka": "MAZDA" }
-    { "id": 3, "marka": "FIAT" }
-    { "id": 4, "marka": "PEŻOT" }
+    { "id": 2, "marka": "MAZDA" },
+    { "id": 3, "marka": "FIAT" },
+    { "id": 4, "marka": "PEŻOT" },
     { "id": 5, "marka": "OPEL" }
   ],
   "comments": [
